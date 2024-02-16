@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/git@github.com:tabolo1000/homework.git/static/css/main.ed674493.css",
-    "main.js": "/git@github.com:tabolo1000/homework.git/static/js/main.903c88f7.js",
-    "static/js/111.393292fe.chunk.js": "/git@github.com:tabolo1000/homework.git/static/js/111.393292fe.chunk.js",
-    "index.html": "/git@github.com:tabolo1000/homework.git/index.html",
-    "main.ed674493.css.map": "/git@github.com:tabolo1000/homework.git/static/css/main.ed674493.css.map",
-    "main.903c88f7.js.map": "/git@github.com:tabolo1000/homework.git/static/js/main.903c88f7.js.map",
-    "111.393292fe.chunk.js.map": "/git@github.com:tabolo1000/homework.git/static/js/111.393292fe.chunk.js.map"
+    "main.css": "/homework-front-main/static/css/main.af2f1d43.css",
+    "main.js": "/homework-front-main/static/js/main.695f2c4c.js",
+    "static/js/787.177e23c2.chunk.js": "/homework-front-main/static/js/787.177e23c2.chunk.js",
+    "index.html": "/homework-front-main/index.html",
+    "main.af2f1d43.css.map": "/homework-front-main/static/css/main.af2f1d43.css.map",
+    "main.695f2c4c.js.map": "/homework-front-main/static/js/main.695f2c4c.js.map",
+    "787.177e23c2.chunk.js.map": "/homework-front-main/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed674493.css",
-    "static/js/main.903c88f7.js"
+    "static/css/main.af2f1d43.css",
+    "static/js/main.695f2c4c.js"
   ]
 }
